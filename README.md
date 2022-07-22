@@ -1,7 +1,7 @@
 # Traffic_Analysis
 
 <p align="center"> 
-      <img width="1000" alt="Traffic_Analysis" src="https://user-images.githubusercontent.com/54302889/145484767-a82e3e69-6bc9-4852-909d-d57eabe581ac.png">
+![image](https://user-images.githubusercontent.com/109353237/180494926-b4ff8c02-4132-48ff-bbc5-b6d7bed0a6de.png)
 </p>
 
 This project is used to analyse traffic congestion. It counts the number of vehicles on preferred lanes in a camera recording. Additionally, it estimates the velocities of the vehicles. This data can be used for many purposes. If used on a live recording, it can be used to optimize traffic lights in real-time.
